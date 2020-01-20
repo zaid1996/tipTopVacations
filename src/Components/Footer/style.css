@@ -1,0 +1,50 @@
+.footer{
+    background-color: white;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.footer ul{
+    list-style:none;
+}
+
+.footer li{
+    display: inline;
+    margin-left: 8%;
+    font-size: 17px;
+}
+
+.footer a{
+    color: #3b494a;
+    font-weight: bold;
+}
+
+.footer-col {
+    padding: 0px 40px;
+    text-align: left;
+    color: black;
+}
+
+.social img{
+    height: 25px;
+}
+
+.social li{
+    font-size: 12px;
+    color: #9e0e59;
+    font-weight: bold;
+}
+
+.footer-terms {
+    text-align: left;
+    font-family: PoppinsRegular, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: black;
+}
+
+.footer-terms-details {
+    text-align: left;
+    font-family: PoppinsRegular, sans-serif;
+    font-size: 11px;
+}

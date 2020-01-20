@@ -1,0 +1,161 @@
+body{
+    background: #f4f4f4;
+
+}
+.selectDates{
+    margin-top: 2%;
+    margin-left: 16%;
+    margin-right: 16%;
+}
+
+.selectDates h4{
+    font-family: Poppins, sans-serif;
+    font-size: 32px;
+    line-height: 1.5;
+    letter-spacing: 0.3px;
+    color: #1d2020;
+    margin: 0 0 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.selectDates p{
+    font-size: 20px;
+    color: #444444;
+}
+
+.price-side-inner{
+    margin-top: 3%;
+    margin-left: 40%;
+}
+
+.retail-price{
+    font-size: 16px;
+    color: red;
+}
+
+.original-price {
+    text-decoration: line-through;
+    color: #000;
+    font-size: 20px;
+    letter-spacing: 1.5;
+    font-weight: 700;
+    line-height: 2.5;
+    font-family: Poppins, sans-serif;
+}
+
+.checkout-retail-price {
+    font-family: PoppinsBold, sans-serif;
+    line-height: 1;
+    letter-spacing: 3px;
+    color: rgb(144, 14, 89);
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 40%;
+}
+
+.ant-steps-item-process .ant-steps-item-icon {
+    background: rgb(144, 14, 89);
+    border-color: rgb(144, 14, 89);
+}
+.ant-steps-navigation .ant-steps-item::before{
+    background: rgb(144, 14, 89);
+}
+
+.checkout-billing-info {
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.33;
+    letter-spacing: 0.2px;
+    padding-left: 10px;
+    margin: 0 0 20px;
+    color: #1d2020;
+}
+
+.ant-switch{
+    background-color: rgb(144, 14, 89);
+}
+
+.ant-switch-checked {
+    background-color: rgb(46, 183, 46);
+}
+
+.checkout-billing-title {
+    font-size: 16px;
+}
+
+.selectDates Input{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.ant-select-selection{
+    background-color: #f4f4f4;
+    height: 45px;
+    margin-top: 10px;
+}
+
+.booking-days-title {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 0;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+}
+
+.booking-days-date {
+    color: rgb(144, 14, 89);
+    font-size: 20px;
+    margin-bottom: 0;
+    text-transform: capitalize;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.booking-days-container {
+    width: 100%;
+    font-family: PoppinsRegular, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    font-size: 17px;
+    color: black;
+}
+
+.booking-contact-text {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 11px;
+    line-height: 1.33;
+}
+
+.booking-contact-text {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 11px;
+    line-height: 1.33;
+    text-align: center;
+}
+
+.booking-mail-contact {
+    color: rgb(144, 14, 89);
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+
+.travel-now {
+    text-align: center;
+    font-size: 11px;
+    color: #646c6e;
+    font-family: PoppinsRegular,sans-serif;
+    padding-top: 23px;
+    margin-bottom: -25px;
+    margin: 0 0px;
+    width: 100%;
+}

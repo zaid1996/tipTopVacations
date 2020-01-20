@@ -1,0 +1,116 @@
+.thankyou{
+    background-image: url("../../Images/green.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+}
+
+.thankyouCard{
+    background-color: white;
+}
+
+.topBar{
+    line-height: 5px;
+    padding: 20px;
+}
+
+.topBar span{
+    font-size: 15px;
+color: white;
+width: 20px;
+font-weight: bold;
+}
+
+.topBar p{
+font-size: 30px;
+color: white;
+width: 20px;
+font-weight: bold;
+}
+
+.cardBody{
+    margin-top: 30px;
+    margin-left: 2%;
+}
+
+.leftSide{
+    line-height: 10px;
+}
+
+.leftSide h2{
+    color: #092249;
+    font-weight: bold;
+}
+
+.dataTable{
+    border:1px solid #d1bebe;
+    /* padding: 10px; */
+}
+
+.dataRow{
+    border-bottom:1px solid #d1bebe ;
+}
+.dataRow p{
+    font-size: 15px;
+    /* margin-top: 10px; */
+    padding: 10px;
+    margin-left: 10px;
+    color: black;
+}
+
+.dataRow span{
+    margin-left: 200px;
+}
+
+.rightSide{
+    border-left: 1px solid;
+}
+
+.rightSide h1{
+    color: #2474b2;
+    font-size: 45px;
+    margin-left: 5%;
+}
+.bluePanel{
+    background-color: #2474b2;
+}
+.bluePanel h2{
+    color: white;
+    font-size: 30px;
+    margin-left: 5%;
+}
+/* s */
+.details img{
+    height: 140px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+.details h3{
+    font-size: 20px;
+    color: #3583b8;
+}
+
+.details p{
+    width: 80%;
+    font-size: 14px;
+}
+
+.details Button{
+    width: 80%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    background-color: #ec5051;
+}
+
+@media only screen and (max-width: 600px) {
+    .dataRow p{
+        font-size: 12px;
+    }
+    .last_row{
+        font-size:10px;
+        
+    }
+  }
